@@ -34,7 +34,7 @@
             <jenkins.branch.BranchSource>
                 <source class="jenkins.plugins.git.GitSCMSource" plugin="git@4.5.0">
                     <id>f4f5380e-82f4-45c5-a1dd-c5136b49ec70</id>
-                    <remote>https://github.com/focuscorp/Dofan_Security.git</remote>
+                    <remote>https://github.com/Rahma-Karboul/JGit.git</remote>
                     <credentialsId>1103b590-2c79-48bc-a5be-ff2272e78840</credentialsId>
                     <traits>
                         <jenkins.plugins.git.traits.BranchDiscoveryTrait/>
